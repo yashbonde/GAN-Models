@@ -1,6 +1,4 @@
 # GAN-for-TTS
-This is just a simple implementation of GAN that can be used for TTS or text to speech translational models.
+The followiung repository has various work that I have done in Generative Adversarial Networks a.k.a GANs. I have implemented simple model to perform text to speech conversion which as of now performs really poorly. 
 
-This is a simple convolutional GAN in 1D that is yet to be tested.
-
-___Work in Progress___
+I am trying to implement various models of Deep Learning architectures on solving simple Reinforcement Learning problems.
